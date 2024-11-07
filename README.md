@@ -20,15 +20,21 @@ Contains:
 -Status <b>Selectable</b>(Applied, Called Back, Interview, Offer)
 -Position Title 
 <h4>Additional Information For Each App</h4>
+
+-Ability to Add Application entry 
+<br>
 -Job posting link if avaliable
+<br>
 -Job Description 
+<br>
 -Salary 
+<br>
 -Brief Explanation of company 
+<br>
 <h3>Configuration Page</h3>
 -Personal Information 
 -Resume Upload 
 <h4>For Paying Customers</h4>
-<br>
 -Target Certain Companies By Size 
 <br>
 -Target Certain Salary Ranges 
