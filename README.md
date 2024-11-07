@@ -18,11 +18,10 @@ Contains:
 -Graphical breakdown of stats
 <h3>Applications Page</h3>
 Contains: 
-
 -List of applications 
 <br>
 <h4>For Each App</h4>
-<br>
+
 -Date of application 
 <br>
 -Company Name 
