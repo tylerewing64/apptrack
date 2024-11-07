@@ -6,18 +6,29 @@ sitemap
 <h3>Dashboard</h3>
 Contains: 
 -Number of apps sent 
+<br>
 -Number of callbacks
+<br>
 -Number of interviews
+<br>
 -Offers
+<br>
 -Conversion rate
+<br>
 -Graphical breakdown of stats
 <h3>Applications Page</h3>
 Contains: 
+
 -List of applications 
+<br>
 <h4>For Each App</h4>
+<br>
 -Date of application 
+<br>
 -Company Name 
+<br>
 -Status <b>Selectable</b>(Applied, Called Back, Interview, Offer)
+<br>
 -Position Title 
 <h4>Additional Information For Each App</h4>
 
