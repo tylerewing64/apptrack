@@ -31,7 +31,6 @@ Contains:
 <br>
 -Position Title 
 <h4>Additional Information For Each App</h4>
-
 -Ability to Add Application entry 
 <br>
 -Job posting link if avaliable
